@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\Avarias\Avarias\Avarias\obj\Debug\Avarias.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Avarias\Avarias\Avarias\obj\Debug\Avarias.Properties.Resources.resources
+C:\Users\User\Desktop\Avarias\Avarias\Avarias\obj\Debug\Avarias.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Avarias\Avarias\Avarias\obj\Debug\Avarias.csproj.CoreCompileInputs.cache
